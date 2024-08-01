@@ -1,3 +1,3 @@
 hexlet-my-first-workflow
 
-https://github.com/Mirroel-Alvares/hexlet-my-first-workflow.git/actions/workflows/deploy_steps.yml/badge.svg
+![Deploy Status](https://github.com/Mirroel-Alvares/hexlet-my-first-workflow/actions/workflows/deploy_steps.yml/badge.svg)
